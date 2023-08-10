@@ -1,0 +1,6 @@
+[tool]
+python = "3.9.7"
+
+[tool.dependencies]
+Django = "4.2.4"
+djangorestframework = "3.14.0"

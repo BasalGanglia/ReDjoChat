@@ -1,0 +1,3 @@
+djchat/db.sqlite3
+djchat/.env
+*.pyc
